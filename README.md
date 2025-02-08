@@ -1,1 +1,2 @@
-# simple-llm-client
+# Simple LLM Client (SLC)
+# Description: SLC is a simple online browser based chat client which can connect to Groq (with the API key and a model name) and DeepSeek (running local via Ollama which does not require an API key nor a model name because it’s going to be fixed). The user shall only select to use Groq or local and not need to provide API key and model name (API key and model name can be hardcoded).
