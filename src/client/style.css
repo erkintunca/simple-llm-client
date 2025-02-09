@@ -1,0 +1,18 @@
+#chat-container {
+    width: 500px;
+    height: 400px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #chat-output {
+    flex-grow: 1;
+    overflow-y: auto;
+    padding-bottom: 10px;
+  }
+  
+  #prompt-input {
+    margin-bottom: 10px;
+  }
